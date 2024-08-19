@@ -1,6 +1,6 @@
 function setup() {
     // configuro a tela
-    createCanvas(400, 400);
+    createCanvas(1500, 1500);
       background("rgb(108,251,174)");
   
   }
